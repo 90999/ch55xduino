@@ -29,7 +29,7 @@
                             "packager": "CH55xDuino"
                         }
                     ],
-                    "url": "http://192.168.1.150/ch55xduino-core-0.0.1.tar.bz2",
+                    "url": "https://github.com/DeqingSun/ch55xduino/releases/download/0.0.1/ch55xduino-core-0.0.1.tar.bz2",
                     "archiveFileName": "ch55xduino-core-0.0.1.tar.bz2",
                     "checksum": "SHA-256:5005445edde4cd3173c831b49bc6ab91748f991761ea29b50ccf2a437747b084",
                     "size": "45954"
